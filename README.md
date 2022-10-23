@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/josivan-sousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josivan-sousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/iFuzzing">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iFuzzing&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivan-sousa&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
@@ -20,6 +20,6 @@
  
 <div align="center"> 
 
-  ![Snake animation](https://github.com/josivan-sousa/josivan-sousa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/iFuzzing/iFuzzing/blob/output/github-contribution-grid-snake.svg)
 
 </div>
