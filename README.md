@@ -1,4 +1,4 @@
-<a href="https://ifuzzing-portfolio.netlify.app/">
+
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iFuzzing/iFuzzing/blob/main/JS-github.png?raw=true">
@@ -7,7 +7,7 @@
   </picture>
   
 
-</a>
+
 
 <div align="center"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
